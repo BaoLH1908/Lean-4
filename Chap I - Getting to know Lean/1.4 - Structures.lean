@@ -1,5 +1,5 @@
 -- Defining the structure 'RectangularPrism'
-structure RentangularPrism where
+structure RectangularPrism where
   height : Float
   width : Float
   depth : Float
